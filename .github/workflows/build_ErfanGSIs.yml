@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://aeci27mq723il3rf.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17_Pro/9.3.0.0/cn/20220812160657/16a6adf3/update.zip
-  ROM_NAME: Flyme9.3
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
